@@ -25,5 +25,5 @@ I am a passionate **Web Developer** currently pursuing B.Tech in Computer Scienc
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=yuvrajrajput7485&show_icons=true&theme=radical" alt="Stats" />
 </p>
