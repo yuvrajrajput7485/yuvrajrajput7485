@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there! I'm YUVI 👋
 
-<!--
-**yuvrajrajput7485/yuvrajrajput7485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My Skills](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D1FF&center=false&vCenter=false&width=600&lines=B.Tech+Computer+Science+Student;Specializing+in+Machine+Learning;Java+and+Web+Developer)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- **University:** Jagannath University, Jaipur
+- **Degree:** B.Tech in CSE (3rd Year)
+
+### 💻 Connect with me
+- [LinkedIn](https://www.linkedin.com)
+- [HackerRank](https://www.hackerrank.com)
